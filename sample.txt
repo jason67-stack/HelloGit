@@ -3,4 +3,8 @@
 hot-fix1
 master
 hot-fix test
+<<<<<<< HEAD
 master2
+=======
+hot-fix test2
+>>>>>>> hot-fix
