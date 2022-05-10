@@ -1,5 +1,5 @@
-Á¬ºï×Ó¶¼¶®µÄgitÃüÁî
-ÐÞ¸Ä2
+ÃÂ¬ÂºÃ¯Ã—Ã“Â¶Â¼Â¶Â®ÂµÃ„gitÃƒÃ¼ÃÃ®
+ÃÃžÂ¸Ã„2
 hot-fix1
 master
 hot-fix test
@@ -8,3 +8,4 @@ master2
 =======
 hot-fix test2
 >>>>>>> hot-fix
+modify from Github editor
