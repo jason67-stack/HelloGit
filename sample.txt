@@ -1,5 +1,4 @@
-Á¬ºï×Ó¶¼¶®µÄgitÃüÁî
-ÐÞ¸Ä2
+ssh test
 hot-fix1
 master
 hot-fix test
